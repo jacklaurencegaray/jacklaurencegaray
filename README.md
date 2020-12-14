@@ -1,6 +1,6 @@
 # Hello 👋
 
-Hi, I'm Jack. I'm a fullstack developer with a frontend focus. I'm passionate about javascript, infrastructure, and products with unique problems. Currently living in Manila, Philippines.
+Hi, I'm Jack. I'm a fullstack developer with a frontend focus. I'm passionate about javascript, infrastructure, and solving problems. Currently living in Düsseldorf, Germany. 
 
 Find me around 🌎:
 
